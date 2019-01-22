@@ -12,6 +12,6 @@ to use this repo:
 2. Enter the Folder
 3. use the following Commands 
 
-## npm install
-## npm start
+## `npm install`
+## `npm start`
 
